@@ -1,4 +1,5 @@
 ## Hello World! I'm Alifia 👋
+![ALifia](img/github-header-image.png)
 
 <!--
 **Alifiafarras/Alifiafarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
