@@ -1,4 +1,4 @@
-## Hello World! I'm Alifia 👋
+### Welcome To My Github😉 
 ![ALifia](img/github-header-image.png)
 
 <!--
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
