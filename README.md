@@ -1,5 +1,5 @@
-### Welcome To My Github😉 
-![ALifia](img/github-header-image.png)
+## Welcome To My Github😉 
+![Alifia](img/github-header-image.png)
 
 <!--
 **Alifiafarras/Alifiafarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
